@@ -1,2 +1,17 @@
-.ipynb_checkpoints
-.vscode
+# Python related
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Compiled executables
+*.exe
+
+# Temporary files
+tempCodeRunnerFile.c
+tmp.c
+tmp.exe
