@@ -1,6 +1,6 @@
 import math
 
-# Model of a neuron
+# Model of a neuron with softmax activation for distributed probabilities
 
 def neuron(features: list[list[float]], labels: list[int], weights: list[float], bias: float) -> (list[float], float):
     probabilities = []
